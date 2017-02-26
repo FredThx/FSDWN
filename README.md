@@ -11,8 +11,11 @@ Usage :
 -------
 
 Plug a button on GND and GPIO5
+
 Copy the files in /opt/FSDWN
+
 run command : sudo systemctl enable /opt/FSDWN/fshutpw.service
+
 press the button : the raspberry pi reboot
 
 Tutorials :
