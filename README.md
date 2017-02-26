@@ -1,6 +1,11 @@
 # FSDWN
 
-A small python script to rebbot a raspberry pi when a button is presed.
+A small python script to reboot a raspberry pi when a button is presed.
+
+Dependencies :
+------------
+
+https://pypi.python.org/pypi/FGPIO/0.6.3
 
 Usage :
 -------
