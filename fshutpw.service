@@ -3,7 +3,7 @@ Description= Eteint le Rpi quand GPIO05 à 0V
 After=syslog.target 
 
 [Service]
-ExecStart=/urs/bin/python /opt/FSDWN/fshutpw.py
+ExecStart=/usr/bin/python /opt/FSDWN/fshutpw.py
 Type = simple
 RemainAfterExit=no
 User=root

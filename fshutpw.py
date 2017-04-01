@@ -26,3 +26,7 @@ try: #Ca permet de pouvoir planter le thread avec un CTRL-C
 		time.sleep(0.1)
 except KeyboardInterrupt:
 	bt.stop()
+	
+	
+	
+	
